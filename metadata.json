@@ -1,0 +1,6 @@
+{
+  "name": "BioStudy AI",
+  "description": "Smart, friendly AI study assistant for school and graduate students in biology, human anatomy, physiology, genetics, and biochemistry.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
